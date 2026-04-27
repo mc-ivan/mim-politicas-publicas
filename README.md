@@ -70,7 +70,7 @@ Aplicación de modelos estructurales para analizar participación, permanencia y
 
 [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/mc-ivan/mim-politicas-publicas/blob/main/notebooks/1_PrevencionAbandonoEscolar.ipynb)
 
-### 2. Salud Mayor — Fuzzy RDD
+### 2. Salud Mayor - Fuzzy RDD
 
 Evaluación causal mediante regresión discontinua difusa y variables instrumentales.
 
@@ -80,8 +80,6 @@ Evaluación causal mediante regresión discontinua difusa y variables instrument
 ## 📄 **Documento final**
 
 El informe completo del trabajo se encuentra en:
-
-📄 **TrabajoFinal-Grupal.pdf**
 
 [![View PDF](https://img.shields.io/badge/Ver-Informe_PDF-red?logo=adobeacrobatreader&logoColor=white)](TrabajoFinal-Grupal.pdf)
 
